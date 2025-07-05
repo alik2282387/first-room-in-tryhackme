@@ -1,2 +1,2 @@
-# first-room-in-tryhackme
-самая первая комната в трайхакми
+# начало комнаты offensive security intro
+самое начало 
